@@ -1,1 +1,2 @@
-flet
+flet,
+yt_dlp
